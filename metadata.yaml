@@ -1,0 +1,32 @@
+_repo: Menazerya-ludzka_34635
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zapolska, Gabriela
+    aliases:
+    - Sniezko-Zapolska, Gabriela
+    - Blocka, Gabriela z Piotrowskich
+    birthdate: 1857
+    deathdate: 1921
+    gutenberg_agent_id: '37137'
+    url: http://www.gutenberg.org/2009/agents/37137
+    wikipedia: http://pl.wikipedia.org/wiki/Gabriela_Zapolska
+description: ''
+gutenberg_issued: '2010-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34635'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PG'
+tableOfContents: Żabusia --  Koteczek --  Kozioł ofiarny --  Kundel -- Oślica --  Kukułka
+  --  Lewek --  Małpa --  Szakale -- Papuzia --  Bydlę --  Gołąbki.
+title: Menazerya ludzka
+url: http://www.gutenberg.org/ebooks/34635
